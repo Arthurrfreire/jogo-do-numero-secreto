@@ -2,6 +2,8 @@
 
 Este é um simples jogo de adivinhação de números onde o jogador deve adivinhar um número secreto gerado aleatoriamente entre 1 e 10. O jogo dá dicas se o número secreto é maior ou menor que o chute do jogador e fornece feedback em voz.
 
+Esse projeto foi desenvolvido para o curso de Lógica de programação da Alura junto com a Oracle
+
 ## Estrutura do Projeto
 
 O projeto é composto pelos seguintes arquivos:
